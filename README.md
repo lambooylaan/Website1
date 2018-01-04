@@ -1,3 +1,3 @@
-# Website1
-Test website for learning html, css en js
+# Website1 test
+Test for learning html, css en js
 changes made
